@@ -1,0 +1,13 @@
+.primary {
+    background-color: blue;
+    color: white;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.secondary {
+    background-color: #e0e0e0;
+    color: black;
+    padding: 1rem;
+    border-radius: 1rem;
+}
